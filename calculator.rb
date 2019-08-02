@@ -1,3 +1,4 @@
 first_number
 second_number
-difference sum
+difference
+sum
